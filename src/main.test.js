@@ -5,7 +5,7 @@ test("capitalize me to ME", () => {
 });
 
 test("reverse the string Justice to icetsuJ", () => {
-  expect(main.reverseString("Justice")).toBe("icetsuJ");
+  expect(main.reverseString("Justice")).toBe("ecitsuJ");
 });
 
 test("add 7 + 6 is 13", () => {
